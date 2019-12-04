@@ -6,6 +6,7 @@ public class MainTea {
 		Tea t=new Tea();
 		t.prepare();
 		System.out.println("i m finish the project");
+		System.out.println("first Commit click for local repository after Commite and Push to github Repository");
 	}
 
 }

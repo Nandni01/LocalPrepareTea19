@@ -5,6 +5,7 @@ public class MainTea {
 		System.out.println("im in main");
 		Tea t=new Tea();
 		t.prepare();
+		System.out.println("i m finish the project");
 	}
 
 }
